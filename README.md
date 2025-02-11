@@ -1,7 +1,7 @@
 # Hello, I'm Allan Lancioni 👋
 
 ## About Me
-I am a JavaScript and AI technology strategist specializing in fintech solutions. I have a solid foundation in UX design and a deep understanding of market dynamics. 
+I am a JavaScript and technology strategist specializing in fintech solutions. I have a solid foundation in UX design and a deep understanding of market dynamics. 
 I completed a course in Systems Analysis and Development at FATEC-SP and am currently pursuing a degree in Business Administration at the University of São Paulo (USP).
 My passion is merging cutting-edge technology with market needs to drive innovation and transform industries.
 
@@ -18,8 +18,12 @@ My passion is merging cutting-edge technology with market needs to drive innovat
 - **Systems Analysis and Development**
   - São Paulo State Technological College (FATEC-SP)
 
+## Certifications
+- **AWS Solutions Architect (SAA-C03)**
+- **Profession Scrum Product Owner (PSPO I) - Scrum.org**
+
 ## Get in Touch
-- **Email**: [allanlancioni@allanlancioni](mailto:allanlancioni@allanlancioni.com)
+- **Email**: [allanlancioni@allanlancioni](mailto:aclancioni@gmail.com)
 - **LinkedIn**: [Visit my profile](https://www.linkedin.com/in/allan-lancioni)
 
 Feel free to reach out if you want to collaborate on projects or exchange ideas on technology, UX design, and market innovation!
